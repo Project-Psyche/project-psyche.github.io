@@ -1,6 +1,6 @@
 ---
 title: "Project Psyche"
-draft: true
+draft: false
 weight: 0
 ---
 
